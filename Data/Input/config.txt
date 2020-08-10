@@ -1,0 +1,17 @@
+{
+	"OrchestratorQueueName":"WI5 Clients",
+	"OrchestratorACMECredential":"ACME System 1 Login",
+	"logF_BusinessProcessName":"Framework",
+
+	"MaxRetryNumber":"0",
+	"ExScreenshotsFolderPath":"Exceptions_Screenshots",
+	
+	"LogMessage_GetTransactionData":"Processing Transaction Number: ",
+	"LogMessage_GetTransactionDataError":"Error getting transaction data for Transaction Number: ",
+	"LogMessage_Success":"Transaction Successful.",
+	"LogMessage_BusinessRuleException":"Business rule exception.",
+	"LogMessage_ApplicationException":"System exception.",
+
+	"ACMESystem1":"https://acme-test.uipath.com/",
+	"invalidLoginEmail":"Helena.Szwedzinski@academytrainee.com"
+}
