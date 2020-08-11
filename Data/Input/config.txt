@@ -13,5 +13,7 @@
 	"LogMessage_ApplicationException":"System exception.",
 
 	"ACMESystem1":"https://acme-test.uipath.com/",
-	"invalidLoginEmail":"Helena.Szwedzinski@academytrainee.com"
+	"SHA1":"http://www.sha1-online.com/",
+	"invalidLoginEmail":"Helena.Szwedzinski@academytrainee.com",
+	"ClientInfoPage":"https://acme-test.uipath.com/work-items/"
 }
